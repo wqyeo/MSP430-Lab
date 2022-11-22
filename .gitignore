@@ -11,7 +11,10 @@ CTestTestfile.cmake
 _deps
 
 # Code Composer
-Release/*
+*/Release/*
 .xdchelp
-config/*
-.launches/*
+*/config/*
+*/.launches/*
+*/Debug/*
+*/.settings/*
+*/targetConfigs/*
